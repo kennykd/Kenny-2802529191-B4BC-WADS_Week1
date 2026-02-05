@@ -22,3 +22,13 @@ GitHub extends Git by providing:
 - CI/CD integration for automated testing and deployment
 
 In team-based web development, GitHub helps enforce good security practices by enabling peer reviews and limiting direct access to production branches.
+
+## Security Considerations
+GitHub also plays a role in web security:
+- Sensitive data should never be committed (e.g., API keys)
+- `.env` files should be excluded using `.gitignore`
+- Branch protection rules prevent unsafe code from being merged
+- Commit history provides accountability and audit trails
+
+## Conclusion
+Git and GitHub are essential tools for building secure, scalable, and maintainable web applications. Mastering them early is critical for any web developer.
