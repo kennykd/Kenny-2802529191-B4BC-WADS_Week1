@@ -16,3 +16,9 @@ Web applications evolve rapidly. Features are added, bugs are fixed, and securit
 
 ## GitHub and Collaboration
 GitHub extends Git by providing:
+- Remote repositories for backup and sharing
+- Pull requests for structured code review
+- Issue tracking for bugs and feature requests
+- CI/CD integration for automated testing and deployment
+
+In team-based web development, GitHub helps enforce good security practices by enabling peer reviews and limiting direct access to production branches.
