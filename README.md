@@ -6,3 +6,7 @@ Hi! My name is Kenny Krixiadi (2802529191), and I am from B4BC.
 
 ## GitHub and Collaboration
 GitHub extends Git by providing:
+- Remote repositories for backup and sharing
+- Pull requests for structured code review
+- Issue tracking for bugs and feature requests
+- CI/CD integration for automated testing and deployment
